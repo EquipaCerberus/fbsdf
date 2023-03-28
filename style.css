@@ -51,7 +51,7 @@
   }
   
   .banner {
-    background-image: url(/gym.jpg);
+    background-image: url(gym.jpg);
     background-size: cover;
     background-position: center;
     height: 500px;
